@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+    <id>caldav</id>
+    <name>Agenda Caldav</name>
+    <description>Plugin pour lire les evenements d'un Agenda Caldav</description>
+    <icon>fa fa-calendar</icon>
+    <licence>AGPL</licence>
+    <author>Thomas Guenneguez</author>
+    <installation>Aucune</installation>
+    <require>1.20</require>
+    <version>1.0</version>
+    <category>organization</category>
+</info>
+

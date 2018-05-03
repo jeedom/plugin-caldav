@@ -1,0 +1,25 @@
+[panel,primary]
+.Aucun n'evenement ne remonte
+--
+Avez-vous selectionné et sauvegardé un agenda ?
+--
+
+.Peut on avoir les futurs evenements
+--
+Non ce n'est pas possible le plugin ne donne que les évenements en cours
+--
+
+.Quelle est la fréquence de rafraichissement des informations ?
+--
+Par défaut c'est toutes les minutes.
+--
+
+.Pourquoi le plugin est gratuit ?
+--
+Ce plugin est gratuit pour que chacun puisse en profiter simplement. Si vous souhaitez tout de même faire un don au développeur du plugin, merci de me faire un MP sur le forum.
+--
+
+.J'aimerai remonter des erreurs/modifications directement dans le code ?
+--
+C'est tout à fait possible via https://github.com/guenneguezt/plugin-caldav[github]
+--

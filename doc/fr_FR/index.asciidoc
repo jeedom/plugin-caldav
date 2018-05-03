@@ -1,0 +1,16 @@
+== Caldav Agenda
+
+=== Description
+Le plugin agenda permet de récupérer les événements d'un agenda caldav. Il gère les multiples évènements en les séparant par une virgule (“,”) il ne reste plus qu’à tester la présence de l’évènement dans un scénario pour déclencher une action (il existe dans les scénarios l’opérateur ~ pour savoir si une chaîne de caractères en contient une autre)
+
+'''
+=== Configuration
+include::configuration.asciidoc[]
+
+'''
+=== FAQ
+include::faq.asciidoc[]
+
+'''
+=== Changelog
+include::changelog.asciidoc[]

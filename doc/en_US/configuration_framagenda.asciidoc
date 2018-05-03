@@ -1,0 +1,8 @@
+== Configuration avec Webdav sur Framagenda
+
+Il faut en premier lieu se créer un compte sur Framagenda.
+Il faut ensuite aller sur https://framagenda.org/index.php/apps/calendar/
+
+image::../images/caldav_framagenda1.jpg[]
+
+Il faut récupérer l'URL Framagenda qui sert pour la configuration du plugin.

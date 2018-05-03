@@ -1,0 +1,33 @@
+{
+    "plugins\/caldav\/desktop\/php\/caldav.php": {
+        "Ajouter un agenda": "Add an diary",
+        "Rechercher": "Search",
+        "Mes agendas Caldav": "My Caldav diaries",
+        "Général": "General",
+        "Nom de l'équipement": "Name of the equipment",
+        "Objet parent": "Parent object",
+        "Aucun": "None",
+        "Activer": "Enable",
+        "Visible": "Visible",
+        "URL agenda": "URL diary",
+        "Compte": "Counter",
+        "Password": "Password",
+        "caldav": "caldav",
+        "Ajouter une pattern caldav": "Add a caldav pattern",
+        "Nom": "Name",
+        "Pattern": "Pattern",
+        "Valeur par défaut": "Default value",
+        "Supprimer": "Delete",
+        "Sauvegarder": "Save",
+        "Gestion": "Management",
+        "Configuration": "Configuration",
+        "URL caldav": "URL caldav",
+        "Calendrier": "Calendar"
+    },
+    "plugins\/caldav\/desktop\/js\/caldav.js": {
+        "Tester": "Test"
+    },
+    "plugins\/caldav\/core\/class\/caldav.class.php": {
+        "Aucun": "None"
+    }
+}
