@@ -1,33 +1,39 @@
 {
     "plugins\/caldav\/desktop\/php\/caldav.php": {
-        "Ajouter un agenda": "Kalender hinzufügen",
-        "Rechercher": "Suchen",
+        "401 - Accès non autorisé": "401 - Nicht autorisierter Zugriff",
+        "Ajouter un agenda": "Fügen Sie eine Agenda hinzu",
+        "Rechercher": "Suchen nach",
+        "Gestion": "Verwaltung",
+        "Configuration": "Konfiguration",
         "Mes agendas Caldav": "Meine  Caldav Kalender",
+        "Sauvegarder": "Speichern",
+        "Supprimer": "Löschen",
+        "Equipement": "Gerät",
+        "Commandes": "Befehle",
         "Général": "Allgemein",
-        "Nom de l'équipement": "Gerätename",
-        "Objet parent": "Elternobjekt",
-        "Aucun": "Keine",
+        "Nom de l'équipement": "Name der Ausrüstung",
+        "Objet parent": "Übergeordnetes Objekt",
+        "Aucun": "Ohne",
         "Activer": "Aktivieren",
         "Visible": "Sichtbar",
-        "URL agenda": "Kalender  URL",
+        "URL caldav": "Caldav URL",
         "Compte": "Konto",
-        "Password": "Password",
-        "caldav": "Caldav",
+        "Password": "Kennwort",
+        "Calendrier": "Kalender",
         "Ajouter une pattern caldav": "Ein Caldav Muster hinzufügen",
         "Nom": "Name",
         "Pattern": "Muster",
-        "Valeur par défaut": "Standardwert",
-        "Supprimer": "Löschen",
-        "Sauvegarder": "Speichern",
-        "Gestion": "Verwaltung",
-        "Configuration": "Konfiguration",
-        "URL caldav": "Caldav URL",
-        "Calendrier": "Kalender"
+        "Valeur par défaut": "Standardwert"
     },
     "plugins\/caldav\/desktop\/js\/caldav.js": {
-        "Tester": "Testen"
+        "Tester": "Test"
+    },
+    "plugins\/caldav\/core\/ajax\/caldav.ajax.php": {
+        "401 - Accès non autorisé": "401 - Nicht autorisierter Zugriff",
+        "caldav eqLogic non trouvé : ": "",
+        "Aucune methode correspondante à : ": "Keine Methode entsprechend:"
     },
     "plugins\/caldav\/core\/class\/caldav.class.php": {
-        "Aucun": "Keine"
+        "Aucun": "Ohne"
     }
 }

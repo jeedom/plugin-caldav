@@ -1,31 +1,37 @@
 {
     "plugins\/caldav\/desktop\/php\/caldav.php": {
+        "401 - Accès non autorisé": "401 - Accès non autorisé",
         "Ajouter un agenda": "Ajouter un agenda",
         "Rechercher": "Rechercher",
+        "Gestion": "Gestion",
+        "Configuration": "Configuration",
         "Mes agendas Caldav": "Mes agendas Caldav",
+        "Sauvegarder": "Sauvegarder",
+        "Supprimer": "Supprimer",
+        "Equipement": "Equipement",
+        "Commandes": "Commandes",
         "Général": "Général",
         "Nom de l'équipement": "Nom de l'équipement",
         "Objet parent": "Objet parent",
         "Aucun": "Aucun",
         "Activer": "Activer",
         "Visible": "Visible",
-        "URL agenda": "URL agenda",
+        "URL caldav": "URL caldav",
         "Compte": "Compte",
         "Password": "Password",
-        "caldav": "caldav",
+        "Calendrier": "Calendrier",
         "Ajouter une pattern caldav": "Ajouter une pattern caldav",
         "Nom": "Nom",
         "Pattern": "Pattern",
-        "Valeur par défaut": "Valeur par défaut",
-        "Supprimer": "Supprimer",
-        "Sauvegarder": "Sauvegarder",
-        "Gestion": "Gestion",
-        "Configuration": "Configuration",
-        "URL caldav": "URL caldav",
-        "Calendrier": "Calendrier"
+        "Valeur par défaut": "Valeur par défaut"
     },
     "plugins\/caldav\/desktop\/js\/caldav.js": {
         "Tester": "Tester"
+    },
+    "plugins\/caldav\/core\/ajax\/caldav.ajax.php": {
+        "401 - Accès non autorisé": "401 - Accès non autorisé",
+        "caldav eqLogic non trouvé : ": "caldav eqLogic non trouvé : ",
+        "Aucune methode correspondante à : ": "Aucune methode correspondante à : "
     },
     "plugins\/caldav\/core\/class\/caldav.class.php": {
         "Aucun": "Aucun"

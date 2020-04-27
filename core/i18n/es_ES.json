@@ -1,33 +1,39 @@
 {
     "plugins\/caldav\/desktop\/php\/caldav.php": {
+        "401 - Accès non autorisé": "401 - Acceso no autorizado",
         "Ajouter un agenda": "Agregar una agenda",
         "Rechercher": "Buscar",
+        "Gestion": "Gestión",
+        "Configuration": "Configuración",
         "Mes agendas Caldav": "Mis agendas Caldav",
-        "Général": "General",
-        "Nom de l'équipement": "Nombre del dispositivo",
+        "Sauvegarder": "Guardar",
+        "Supprimer": "Borrar",
+        "Equipement": "Dispositivos",
+        "Commandes": "Comandos",
+        "Général": "Principal",
+        "Nom de l'équipement": "Nombre del equipo",
         "Objet parent": "Objeto padre",
-        "Aucun": "Ninguno",
+        "Aucun": "Ninguna",
         "Activer": "Activar",
         "Visible": "Visible",
-        "URL agenda": "URL agenda",
+        "URL caldav": "",
         "Compte": "Cuenta",
         "Password": "Contraseña",
-        "caldav": "caldav",
+        "Calendrier": "Calendario",
         "Ajouter une pattern caldav": "Agregar un patrón caldav",
         "Nom": "Nombre",
         "Pattern": "Patrón",
-        "Valeur par défaut": "Valor por defecto",
-        "Supprimer": "Borrar",
-        "Sauvegarder": "Guardar",
-        "Gestion": "Gestión",
-        "Configuration": "Configuración",
-        "URL caldav": "URL caldav",
-        "Calendrier": "Calendario"
+        "Valeur par défaut": "Valor por defecto"
     },
     "plugins\/caldav\/desktop\/js\/caldav.js": {
-        "Tester": "Prueba"
+        "Tester": "Probar"
+    },
+    "plugins\/caldav\/core\/ajax\/caldav.ajax.php": {
+        "401 - Accès non autorisé": "401 - Acceso no autorizado",
+        "caldav eqLogic non trouvé : ": "",
+        "Aucune methode correspondante à : ": "Ningún método correspondiente a:"
     },
     "plugins\/caldav\/core\/class\/caldav.class.php": {
-        "Aucun": "Ninguno"
+        "Aucun": "Ninguna"
     }
 }

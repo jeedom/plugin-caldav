@@ -1,33 +1,39 @@
 {
     "plugins\/caldav\/desktop\/php\/caldav.php": {
-        "Ajouter un agenda": "Ajouter un agenda",
-        "Rechercher": "Rechercher",
-        "Mes agendas Caldav": "Mes agendas Caldav",
-        "Général": "Général",
-        "Nom de l'équipement": "Nom de l'équipement",
-        "Objet parent": "Objet parent",
-        "Aucun": "Aucun",
-        "Activer": "Activer",
-        "Visible": "Visible",
-        "URL agenda": "URL agenda",
-        "Compte": "Compte",
-        "Password": "Password",
-        "caldav": "caldav",
-        "Ajouter une pattern caldav": "Ajouter une pattern caldav",
-        "Nom": "Nom",
-        "Pattern": "Pattern",
-        "Valeur par défaut": "Valeur par défaut",
-        "Supprimer": "Supprimer",
-        "Sauvegarder": "Sauvegarder",
-        "Gestion": "Gestion",
-        "Configuration": "Configuration",
-        "URL caldav": "URL caldav",
-        "Calendrier": "Calendrier"
+        "401 - Accès non autorisé": "401 - Yetkisiz erişim",
+        "Ajouter un agenda": "",
+        "Rechercher": "Arayın",
+        "Gestion": "Idare",
+        "Configuration": "Ayar",
+        "Mes agendas Caldav": "",
+        "Sauvegarder": "Kaydet",
+        "Supprimer": "Sil",
+        "Equipement": "Cihaz",
+        "Commandes": "Komutalar",
+        "Général": "Genel",
+        "Nom de l'équipement": "Ekipman ismi",
+        "Objet parent": "Üst nesne",
+        "Aucun": "Hiçbir",
+        "Activer": "Etkinleştir",
+        "Visible": "Görülebilir",
+        "URL caldav": "",
+        "Compte": "",
+        "Password": "",
+        "Calendrier": "",
+        "Ajouter une pattern caldav": "",
+        "Nom": "İsim",
+        "Pattern": "",
+        "Valeur par défaut": ""
     },
     "plugins\/caldav\/desktop\/js\/caldav.js": {
-        "Tester": "Tester"
+        "Tester": "Test et"
+    },
+    "plugins\/caldav\/core\/ajax\/caldav.ajax.php": {
+        "401 - Accès non autorisé": "401 - Yetkisiz erişim",
+        "caldav eqLogic non trouvé : ": "",
+        "Aucune methode correspondante à : ": "Aşağıdakilere karşılık gelen bir yöntem yok:"
     },
     "plugins\/caldav\/core\/class\/caldav.class.php": {
-        "Aucun": "Aucun"
+        "Aucun": "Hiçbir"
     }
 }

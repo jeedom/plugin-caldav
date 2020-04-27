@@ -1,31 +1,37 @@
 {
     "plugins\/caldav\/desktop\/php\/caldav.php": {
-        "Ajouter un agenda": "Add an diary",
+        "401 - Accès non autorisé": "401 - Unauthorized access",
+        "Ajouter un agenda": "Add an agenda",
         "Rechercher": "Search",
+        "Gestion": "Management",
+        "Configuration": "Setup",
         "Mes agendas Caldav": "My Caldav diaries",
-        "Général": "General",
-        "Nom de l'équipement": "Name of the equipment",
+        "Sauvegarder": "Save",
+        "Supprimer": "Delete",
+        "Equipement": "Equipment",
+        "Commandes": "Commands",
+        "Général": "Main",
+        "Nom de l'équipement": "Name of equipment",
         "Objet parent": "Parent object",
         "Aucun": "None",
-        "Activer": "Enable",
+        "Activer": "Activate",
         "Visible": "Visible",
-        "URL agenda": "URL diary",
-        "Compte": "Counter",
+        "URL caldav": "",
+        "Compte": "Account",
         "Password": "Password",
-        "caldav": "caldav",
+        "Calendrier": "Calendar",
         "Ajouter une pattern caldav": "Add a caldav pattern",
         "Nom": "Name",
-        "Pattern": "Pattern",
-        "Valeur par défaut": "Default value",
-        "Supprimer": "Delete",
-        "Sauvegarder": "Save",
-        "Gestion": "Management",
-        "Configuration": "Configuration",
-        "URL caldav": "URL caldav",
-        "Calendrier": "Calendar"
+        "Pattern": "",
+        "Valeur par défaut": "Default value"
     },
     "plugins\/caldav\/desktop\/js\/caldav.js": {
         "Tester": "Test"
+    },
+    "plugins\/caldav\/core\/ajax\/caldav.ajax.php": {
+        "401 - Accès non autorisé": "401 - Unauthorized access",
+        "caldav eqLogic non trouvé : ": "",
+        "Aucune methode correspondante à : ": "No method corresponding to:"
     },
     "plugins\/caldav\/core\/class\/caldav.class.php": {
         "Aucun": "None"
