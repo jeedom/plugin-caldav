@@ -1,11 +1,11 @@
 {
     "plugins\/caldav\/desktop\/php\/caldav.php": {
         "401 - Accès non autorisé": "401 - Acesso não autorizado",
-        "Ajouter un agenda": "",
+        "Ajouter un agenda": "Adicionar uma agenda",
         "Rechercher": "Pesquisa",
         "Gestion": "Gestão",
         "Configuration": "Configuração",
-        "Mes agendas Caldav": "",
+        "Mes agendas Caldav": "Meus caldav calendários",
         "Sauvegarder": "Salvar",
         "Supprimer": "Remover",
         "Equipement": "Equipamento",
@@ -16,21 +16,21 @@
         "Aucun": "Nemhum",
         "Activer": "Ativar",
         "Visible": "Visivél",
-        "URL caldav": "",
-        "Compte": "",
-        "Password": "",
-        "Calendrier": "",
-        "Ajouter une pattern caldav": "",
+        "URL caldav": "URL Caldav",
+        "Compte": "Conta",
+        "Password": "Senha",
+        "Calendrier": "Calendário",
+        "Ajouter une pattern caldav": "Adicionar um padrão caldav",
         "Nom": "Nome",
-        "Pattern": "",
-        "Valeur par défaut": ""
+        "Pattern": "Padrão",
+        "Valeur par défaut": "Valor padrão"
     },
     "plugins\/caldav\/desktop\/js\/caldav.js": {
         "Tester": "Teste"
     },
     "plugins\/caldav\/core\/ajax\/caldav.ajax.php": {
         "401 - Accès non autorisé": "401 - Acesso não autorizado",
-        "caldav eqLogic non trouvé : ": "",
+        "caldav eqLogic non trouvé : ": "caldav eqLogic não encontrado:",
         "Aucune methode correspondante à : ": "Aucune methode correspondante à : "
     },
     "plugins\/caldav\/core\/class\/caldav.class.php": {

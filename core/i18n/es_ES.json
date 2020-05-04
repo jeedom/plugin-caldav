@@ -16,7 +16,7 @@
         "Aucun": "Ninguna",
         "Activer": "Activar",
         "Visible": "Visible",
-        "URL caldav": "",
+        "URL caldav": "URL de Caldav",
         "Compte": "Cuenta",
         "Password": "Contraseña",
         "Calendrier": "Calendario",
@@ -30,7 +30,7 @@
     },
     "plugins\/caldav\/core\/ajax\/caldav.ajax.php": {
         "401 - Accès non autorisé": "401 - Acceso no autorizado",
-        "caldav eqLogic non trouvé : ": "",
+        "caldav eqLogic non trouvé : ": "caldav eqLogic no encontrado:",
         "Aucune methode correspondante à : ": "Ningún método correspondiente a:"
     },
     "plugins\/caldav\/core\/class\/caldav.class.php": {

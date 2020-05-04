@@ -16,13 +16,13 @@
         "Aucun": "None",
         "Activer": "Activate",
         "Visible": "Visible",
-        "URL caldav": "",
+        "URL caldav": "Caldav URL",
         "Compte": "Account",
         "Password": "Password",
         "Calendrier": "Calendar",
         "Ajouter une pattern caldav": "Add a caldav pattern",
         "Nom": "Name",
-        "Pattern": "",
+        "Pattern": "Pattern",
         "Valeur par défaut": "Default value"
     },
     "plugins\/caldav\/desktop\/js\/caldav.js": {
@@ -30,7 +30,7 @@
     },
     "plugins\/caldav\/core\/ajax\/caldav.ajax.php": {
         "401 - Accès non autorisé": "401 - Unauthorized access",
-        "caldav eqLogic non trouvé : ": "",
+        "caldav eqLogic non trouvé : ": "caldav eqLogic not found : ",
         "Aucune methode correspondante à : ": "No method corresponding to:"
     },
     "plugins\/caldav\/core\/class\/caldav.class.php": {
