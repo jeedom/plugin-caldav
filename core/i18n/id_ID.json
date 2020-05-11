@@ -31,7 +31,7 @@
     "plugins\/caldav\/core\/ajax\/caldav.ajax.php": {
         "401 - Accès non autorisé": "401 - Akses tidak sah",
         "caldav eqLogic non trouvé : ": "",
-        "Aucune methode correspondante à : ": "Aucune methode correspondante à : "
+        "Aucune methode correspondante à : ": "Aucune methode correspondante à :"
     },
     "plugins\/caldav\/core\/class\/caldav.class.php": {
         "Aucun": "Tak ada"

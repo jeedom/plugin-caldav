@@ -30,7 +30,7 @@
     },
     "plugins\/caldav\/core\/ajax\/caldav.ajax.php": {
         "401 - Accès non autorisé": "401 - Unauthorized access",
-        "caldav eqLogic non trouvé : ": "caldav eqLogic not found : ",
+        "caldav eqLogic non trouvé : ": "caldav eqLogic not found :",
         "Aucune methode correspondante à : ": "No method corresponding to:"
     },
     "plugins\/caldav\/core\/class\/caldav.class.php": {
