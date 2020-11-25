@@ -1,11 +1,12 @@
 {
     "plugins\/caldav\/desktop\/php\/caldav.php": {
         "401 - Accès non autorisé": "401 - Acceso no autorizado",
-        "Ajouter un agenda": "Agregar una agenda",
-        "Rechercher": "Buscar",
         "Gestion": "Gestión",
+        "Ajouter": "Añadir",
         "Configuration": "Configuración",
         "Mes agendas Caldav": "Mis agendas Caldav",
+        "Rechercher": "Buscar",
+        "Configuration avancée": "Configuración avanzada",
         "Sauvegarder": "Guardar",
         "Supprimer": "Borrar",
         "Equipement": "Dispositivos",
@@ -14,11 +15,14 @@
         "Nom de l'équipement": "Nombre del equipo",
         "Objet parent": "Objeto padre",
         "Aucun": "Ninguna",
+        "Catégorie": "Categoría",
+        "Options": "Opciones",
         "Activer": "Activar",
         "Visible": "Visible",
+        "Paramètres": "Configuraciones",
         "URL caldav": "URL de Caldav",
-        "Compte": "Cuenta",
-        "Password": "Contraseña",
+        "Nom d'utilisateur": "Nombre de usuario",
+        "Mot de passe": "Contraseña",
         "Calendrier": "Calendario",
         "Ajouter une pattern caldav": "Agregar un patrón caldav",
         "Nom": "Nombre",
@@ -35,5 +39,8 @@
     },
     "plugins\/caldav\/core\/class\/caldav.class.php": {
         "Aucun": "Ninguna"
+    },
+    "info.json": {
+        "Auteur du plugin : Thomas Guenneguez. ATTENTION : il ne s’agit pas d’un plugin Officiel Jeedom mais d’un plugin développé par une tierce personne et dont l’évolution a été abandonnée. L’équipe technique Jeedom assurera l’assistance sur ce plugin sans obligation de résultat. Plugin pour lire les évènements d'un Agenda Caldav. Avec une expression régulière on peut, par exemple, extraire une température d'un évènement.": "Autor del complemento: Thomas Guenneguez. TENGA EN CUENTA: este no es un complemento oficial de Jeedom, sino un complemento desarrollado por un tercero y cuyo desarrollo ha sido abandonado. El equipo técnico de Jeedom proporcionará asistencia sobre este complemento sin obligación de resultado. Complemento para leer eventos de un calendario Caldav. Con una expresión regular podemos, por ejemplo, extraer una temperatura de un evento"
     }
 }

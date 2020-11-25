@@ -1,11 +1,12 @@
 {
     "plugins\/caldav\/desktop\/php\/caldav.php": {
         "401 - Accès non autorisé": "401 - Unauthorized access",
-        "Ajouter un agenda": "Add an agenda",
-        "Rechercher": "Search",
         "Gestion": "Management",
+        "Ajouter": "Add",
         "Configuration": "Setup",
         "Mes agendas Caldav": "My Caldav diaries",
+        "Rechercher": "Search",
+        "Configuration avancée": "Advanced configuration",
         "Sauvegarder": "Save",
         "Supprimer": "Delete",
         "Equipement": "Equipment",
@@ -14,11 +15,14 @@
         "Nom de l'équipement": "Name of equipment",
         "Objet parent": "Parent object",
         "Aucun": "None",
+        "Catégorie": "Category",
+        "Options": "Options",
         "Activer": "Activate",
         "Visible": "Visible",
+        "Paramètres": "Settings",
         "URL caldav": "Caldav URL",
-        "Compte": "Account",
-        "Password": "Password",
+        "Nom d'utilisateur": "Username",
+        "Mot de passe": "Password",
         "Calendrier": "Calendar",
         "Ajouter une pattern caldav": "Add a caldav pattern",
         "Nom": "Name",
@@ -35,5 +39,8 @@
     },
     "plugins\/caldav\/core\/class\/caldav.class.php": {
         "Aucun": "None"
+    },
+    "info.json": {
+        "Auteur du plugin : Thomas Guenneguez. ATTENTION : il ne s’agit pas d’un plugin Officiel Jeedom mais d’un plugin développé par une tierce personne et dont l’évolution a été abandonnée. L’équipe technique Jeedom assurera l’assistance sur ce plugin sans obligation de résultat. Plugin pour lire les évènements d'un Agenda Caldav. Avec une expression régulière on peut, par exemple, extraire une température d'un évènement.": "Author of the plugin: Thomas Guenneguez. ATTENTION: this is not an Official Jeedom plugin but a plugin developed by a third party and whose evolution has been abandoned. The Jeedom technical team will provide assistance on this plugin with no obligation of result. Plugin to read events from a Caldav Calendar. With a regular expression we can, for example, extract a temperature from an event"
     }
 }

@@ -1,11 +1,12 @@
 {
     "plugins\/caldav\/desktop\/php\/caldav.php": {
         "401 - Accès non autorisé": "401 - Acesso não autorizado",
-        "Ajouter un agenda": "Adicionar uma agenda",
-        "Rechercher": "Pesquisa",
         "Gestion": "Gestão",
+        "Ajouter": "Adicionar",
         "Configuration": "Configuração",
         "Mes agendas Caldav": "Meus caldav calendários",
+        "Rechercher": "Pesquisa",
+        "Configuration avancée": "Configuração avançada",
         "Sauvegarder": "Salvar",
         "Supprimer": "Remover",
         "Equipement": "Equipamento",
@@ -14,11 +15,14 @@
         "Nom de l'équipement": "Nome de equipamentos",
         "Objet parent": "Objeto pai",
         "Aucun": "Nemhum",
+        "Catégorie": "Categoria",
+        "Options": "Opções",
         "Activer": "Ativar",
         "Visible": "Visivél",
+        "Paramètres": "Configurações",
         "URL caldav": "URL Caldav",
-        "Compte": "Conta",
-        "Password": "Senha",
+        "Nom d'utilisateur": "Nome de Usuário",
+        "Mot de passe": "Senha",
         "Calendrier": "Calendário",
         "Ajouter une pattern caldav": "Adicionar um padrão caldav",
         "Nom": "Nome",
@@ -35,5 +39,8 @@
     },
     "plugins\/caldav\/core\/class\/caldav.class.php": {
         "Aucun": "Nemhum"
+    },
+    "info.json": {
+        "Auteur du plugin : Thomas Guenneguez. ATTENTION : il ne s’agit pas d’un plugin Officiel Jeedom mais d’un plugin développé par une tierce personne et dont l’évolution a été abandonnée. L’équipe technique Jeedom assurera l’assistance sur ce plugin sans obligation de résultat. Plugin pour lire les évènements d'un Agenda Caldav. Avec une expression régulière on peut, par exemple, extraire une température d'un évènement.": "Autor do plugin: Thomas Guenneguez. ATENÇÃO: este não é um plugin oficial da Jeedom, mas sim um plugin desenvolvido por terceiros e cuja evolução foi abandonada. A equipe técnica da Jeedom fornecerá assistência neste plugin sem obrigação de resultado. Plugin para ler eventos de um Calendário Caldav. Com uma expressão regular, podemos, por exemplo, extrair a temperatura de um evento"
     }
 }

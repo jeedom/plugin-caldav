@@ -1,11 +1,12 @@
 {
     "plugins\/caldav\/desktop\/php\/caldav.php": {
         "401 - Accès non autorisé": "401 - Несанкционированный доступ",
-        "Ajouter un agenda": "",
-        "Rechercher": "поиск",
         "Gestion": "Управление",
+        "Ajouter": "Добавить",
         "Configuration": "Конфигурация",
         "Mes agendas Caldav": "",
+        "Rechercher": "поиск",
+        "Configuration avancée": "Расширенные настройки",
         "Sauvegarder": "Сохранить",
         "Supprimer": "удаление",
         "Equipement": "Оборудование",
@@ -14,11 +15,14 @@
         "Nom de l'équipement": "Название оборудования",
         "Objet parent": "Родительский объект",
         "Aucun": "Нет",
+        "Catégorie": "категория",
+        "Options": "Опции",
         "Activer": "активировать",
         "Visible": "Видимый",
+        "Paramètres": "настройки",
         "URL caldav": "",
-        "Compte": "",
-        "Password": "",
+        "Nom d'utilisateur": "Имя пользователя",
+        "Mot de passe": "Пароль",
         "Calendrier": "Календарь",
         "Ajouter une pattern caldav": "",
         "Nom": "Имя",
@@ -35,5 +39,8 @@
     },
     "plugins\/caldav\/core\/class\/caldav.class.php": {
         "Aucun": "Нет"
+    },
+    "info.json": {
+        "Auteur du plugin : Thomas Guenneguez. ATTENTION : il ne s’agit pas d’un plugin Officiel Jeedom mais d’un plugin développé par une tierce personne et dont l’évolution a été abandonnée. L’équipe technique Jeedom assurera l’assistance sur ce plugin sans obligation de résultat. Plugin pour lire les évènements d'un Agenda Caldav. Avec une expression régulière on peut, par exemple, extraire une température d'un évènement.": ""
     }
 }

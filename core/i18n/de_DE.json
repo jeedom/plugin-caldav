@@ -1,11 +1,12 @@
 {
     "plugins\/caldav\/desktop\/php\/caldav.php": {
         "401 - Accès non autorisé": "401 - Nicht autorisierter Zugriff",
-        "Ajouter un agenda": "Fügen Sie eine Agenda hinzu",
-        "Rechercher": "Suchen nach",
         "Gestion": "Verwaltung",
+        "Ajouter": "Einfügen",
         "Configuration": "Konfiguration",
         "Mes agendas Caldav": "Meine  Caldav Kalender",
+        "Rechercher": "Suchen nach",
+        "Configuration avancée": "Erweiterte Konfiguration",
         "Sauvegarder": "Speichern",
         "Supprimer": "Löschen",
         "Equipement": "Gerät",
@@ -14,11 +15,14 @@
         "Nom de l'équipement": "Name der Ausrüstung",
         "Objet parent": "Übergeordnetes Objekt",
         "Aucun": "Ohne",
+        "Catégorie": "Kategorie",
+        "Options": "Optionen",
         "Activer": "Aktivieren",
         "Visible": "Sichtbar",
+        "Paramètres": "Einstellungen",
         "URL caldav": "Caldav URL",
-        "Compte": "Konto",
-        "Password": "Kennwort",
+        "Nom d'utilisateur": "Benutzername",
+        "Mot de passe": "Passwort",
         "Calendrier": "Kalender",
         "Ajouter une pattern caldav": "Ein Caldav Muster hinzufügen",
         "Nom": "Name",
@@ -35,5 +39,8 @@
     },
     "plugins\/caldav\/core\/class\/caldav.class.php": {
         "Aucun": "Ohne"
+    },
+    "info.json": {
+        "Auteur du plugin : Thomas Guenneguez. ATTENTION : il ne s’agit pas d’un plugin Officiel Jeedom mais d’un plugin développé par une tierce personne et dont l’évolution a été abandonnée. L’équipe technique Jeedom assurera l’assistance sur ce plugin sans obligation de résultat. Plugin pour lire les évènements d'un Agenda Caldav. Avec une expression régulière on peut, par exemple, extraire une température d'un évènement.": "Autor des Plugins: Thomas Guenneguez. BITTE BEACHTEN SIE: Dies ist kein offizielles Jeedom-Plugin, sondern ein Plugin, das von einem Dritten entwickelt wurde und dessen Entwicklung abgebrochen wurde. Das technische Team von Jeedom wird dieses Plugin unverbindlich unterstützen. Plugin zum Lesen von Ereignissen aus einem Caldav-Kalender. Mit einem regulären Ausdruck können wir beispielsweise eine Temperatur aus einem Ereignis extrahieren"
     }
 }

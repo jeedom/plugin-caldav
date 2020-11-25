@@ -1,11 +1,12 @@
 {
     "plugins\/caldav\/desktop\/php\/caldav.php": {
         "401 - Accès non autorisé": "401 - Yetkisiz erişim",
-        "Ajouter un agenda": "",
-        "Rechercher": "Arayın",
         "Gestion": "Idare",
+        "Ajouter": "Ekle",
         "Configuration": "Ayar",
         "Mes agendas Caldav": "",
+        "Rechercher": "Arayın",
+        "Configuration avancée": "Gelişmiş ayarlar",
         "Sauvegarder": "Kaydet",
         "Supprimer": "Sil",
         "Equipement": "Cihaz",
@@ -14,11 +15,14 @@
         "Nom de l'équipement": "Ekipman ismi",
         "Objet parent": "Üst nesne",
         "Aucun": "Hiçbir",
+        "Catégorie": "Kategori",
+        "Options": "Opsiyonlar",
         "Activer": "Etkinleştir",
         "Visible": "Görülebilir",
+        "Paramètres": "Ayarlar ( Séçenekler )",
         "URL caldav": "",
-        "Compte": "",
-        "Password": "",
+        "Nom d'utilisateur": "Kullanıcı adı",
+        "Mot de passe": "Şifre",
         "Calendrier": "Takvim",
         "Ajouter une pattern caldav": "",
         "Nom": "İsim",
@@ -35,5 +39,8 @@
     },
     "plugins\/caldav\/core\/class\/caldav.class.php": {
         "Aucun": "Hiçbir"
+    },
+    "info.json": {
+        "Auteur du plugin : Thomas Guenneguez. ATTENTION : il ne s’agit pas d’un plugin Officiel Jeedom mais d’un plugin développé par une tierce personne et dont l’évolution a été abandonnée. L’équipe technique Jeedom assurera l’assistance sur ce plugin sans obligation de résultat. Plugin pour lire les évènements d'un Agenda Caldav. Avec une expression régulière on peut, par exemple, extraire une température d'un évènement.": ""
     }
 }
