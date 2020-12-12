@@ -39,18 +39,18 @@ function addCmdToTable(_cmd) {
 }
 
 function printEqLogic() {
-    $.ajax({// fonction permettant de faire de l'ajax
-        type: "POST", // methode de transmission des données au fichier php
-        url: "plugins/caldav/core/ajax/caldav.ajax.php", // url du fichier php
+    $.ajax({
+        type: "POST",
+        url: "plugins/caldav/core/ajax/caldav.ajax.php",
         data: {
             action: "getCalendars",
-			id: $('.li_eqLogic.active').attr('data-eqLogic_id'),
+			       id: $('.eqLogicAttr[data-l1key=id]').value(),
         },
         dataType: 'json',
         error: function(request, status, error) {
             handleAjaxError(request, status);
         },
-        success: function(data) { // si l'appel a bien fonctionné
+        success: function(data) {
 			if (data.state == 'ok') {
 				option = '';
 				for (var i = 0, len = data.result.length; i < len; i++) {
@@ -62,4 +62,3 @@ function printEqLogic() {
         }
     });
 }
-
