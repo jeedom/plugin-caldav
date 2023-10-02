@@ -4,7 +4,7 @@
         "Gestion": "管理",
         "Ajouter": "加えます",
         "Configuration": "コンフィギュレーション",
-        "Mes agendas Caldav": "",
+        "Mes agendas Caldav": "Mes agendas Caldav",
         "Rechercher": "検索",
         "Configuration avancée": "高度な構成",
         "Sauvegarder": "セーブ",
@@ -20,27 +20,27 @@
         "Activer": "アクティブ",
         "Visible": "目に見えます",
         "Paramètres": "設定",
-        "URL caldav": "",
+        "URL caldav": "URL caldav",
         "Nom d'utilisateur": "ユーザー名",
         "Mot de passe": "パスワード",
         "Calendrier": "カレンダー",
-        "Ajouter une pattern caldav": "",
+        "Ajouter une pattern caldav": "Ajouter une pattern caldav",
         "Nom": "表題",
-        "Pattern": "",
-        "Valeur par défaut": ""
+        "Pattern": "Pattern",
+        "Valeur par défaut": "Valeur par défaut"
     },
     "plugins\/caldav\/desktop\/js\/caldav.js": {
         "Tester": "テスト"
     },
     "plugins\/caldav\/core\/ajax\/caldav.ajax.php": {
         "401 - Accès non autorisé": "401-不正アクセス",
-        "caldav eqLogic non trouvé : ": "",
+        "caldav eqLogic non trouvé : ": "caldav eqLogic non trouvé :",
         "Aucune methode correspondante à : ": "以下に対応するメソッドはありません："
     },
     "plugins\/caldav\/core\/class\/caldav.class.php": {
         "Aucun": "何でもありません"
     },
     "info.json": {
-        "Auteur du plugin : Thomas Guenneguez. ATTENTION : il ne s’agit pas d’un plugin Officiel Jeedom mais d’un plugin développé par une tierce personne et dont l’évolution a été abandonnée. L’équipe technique Jeedom assurera l’assistance sur ce plugin sans obligation de résultat. Plugin pour lire les évènements d'un Agenda Caldav. Avec une expression régulière on peut, par exemple, extraire une température d'un évènement.": ""
+        "Auteur du plugin : Thomas Guenneguez. ATTENTION : il ne s’agit pas d’un plugin Officiel Jeedom mais d’un plugin développé par une tierce personne et dont l’évolution a été abandonnée. L’équipe technique Jeedom assurera l’assistance sur ce plugin sans obligation de résultat. Plugin pour lire les évènements d'un Agenda Caldav. Avec une expression régulière on peut, par exemple, extraire une température d'un évènement.": "Auteur du plugin : Thomas Guenneguez. ATTENTION : il ne s’agit pas d’un plugin Officiel Jeedom mais d’un plugin développé par une tierce personne et dont l’évolution a été abandonnée. L’équipe technique Jeedom assurera l’assistance sur ce plugin sans obligation de résultat. Plugin pour lire les évènements d'un Agenda Caldav. Avec une expression régulière on peut, par exemple, extraire une température d'un évènement"
     }
 }
